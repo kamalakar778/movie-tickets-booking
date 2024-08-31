@@ -1,0 +1,11 @@
+h1,
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.error {
+    position: absolute;
+    color: red;
+    font-size: 0.6rem;
+}
